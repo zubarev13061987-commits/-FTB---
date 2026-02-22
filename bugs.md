@@ -1,4 +1,5 @@
 БАГ-РЕПОРТ №1: ОТСУТСТВУЕТ ПРОБЕЛ МЕЖДУ НОМЕРАМИ СТРАНИЦ.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/156a67fd-8eee-4632-959c-0550b38ac84a" />
 
 Шаги:
 Зарегистрироваться на сайте >
